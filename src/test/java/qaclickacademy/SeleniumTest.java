@@ -22,5 +22,9 @@ public class SeleniumTest {
 		System.out.println("architectTesting");
 	}
 	
+	@Test
+	public void elementsUI() {
+		System.out.println("American architectTesting");
+	}
 	
 }
